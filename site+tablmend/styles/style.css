@@ -1,0 +1,73 @@
+.page{
+    background-color: #f2f2f2;
+    font-family: "Times New Roman", sans-serif;
+    height: 100%;
+    margin-bottom: -80px;
+
+}
+.header{
+    margin: 0 auto 0 auto;
+}
+.title{
+    margin: 0px 15px 0px 15cm;
+    position: center;
+
+}
+
+.photo{
+    width: 350px;
+    height: 450px;
+    border: 1px solid#000;
+    border-radius: 10px;
+    margin: 0 30px;
+    float: left;
+}
+.me{
+    background: url("../images/background.png") no-repeat center top / 100%;
+    height: 70px;
+    margin: 0px;
+}
+.name{
+    font-size: 50px;
+}
+.info1
+{
+    text-align: left;
+    padding: 10px;
+    max-width: 49%;
+    font-size: 35px;
+    font-weight: 500;
+}
+.info2
+{
+    text-align: left;
+    padding: 10px;
+    max-width: 49%;
+    font-size: 35px;
+    font-weight: 500;
+
+}
+.border tr,td
+{
+border-collapse: collapse;
+    margin: auto;
+    text-align: center;
+    width: 45%;
+}
+.footer {
+    background: url("../images/background.png") no-repeat center bottom / 100%;
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    height: 80px;
+
+}
+.link{
+    margin-left: 11cm;
+    text-align: center;
+    padding: 15px;
+    position: center;
+    font-size: 20px;
+    vertical-align: text-top;
+}

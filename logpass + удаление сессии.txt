@@ -1,0 +1,4 @@
+login: Tommy
+password: 12345
+
+session_destroy() уничтожает все данные, связанные с текущей сессией.

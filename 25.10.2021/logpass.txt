@@ -1,2 +1,0 @@
-login: Tommy
-password: 12345
